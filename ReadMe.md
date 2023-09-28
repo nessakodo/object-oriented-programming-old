@@ -1,3 +1,3 @@
-# CU Denver - CEDC - CSE - CSCI-2312 CodeSpace
+# CU Denver CSCI-2312 
 
-- Use this to create an empty CSCI-2312 CodeSpace to test your source code.
+- Here exists all my practice and in class work for CSCI 2312
